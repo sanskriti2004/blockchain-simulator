@@ -40,10 +40,10 @@ When you run the program, you'll:
 ### Sample Output:
 ```
 Welcome to the MehCoin mining simulator!
-Enter your miner name: Alice
+Enter your miner name: Sans
 Mining block #1...
 Block mined successfully: #1
-Transaction: Alice sent MehCoin to Jason
+Transaction: Sans sent MehCoin to Jason
 
 Mining block #2...
 Block mined successfully: #2
